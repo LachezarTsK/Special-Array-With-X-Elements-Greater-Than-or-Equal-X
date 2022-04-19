@@ -10,7 +10,7 @@ class Solution {
     
 public:
     int specialArray(vector<int>& input) {
-        if (input.size() == = 0) {
+        if (input.size() == 0) {
             return 0;
         }
         if (input.size() == 1 && input[0] > 0) {
